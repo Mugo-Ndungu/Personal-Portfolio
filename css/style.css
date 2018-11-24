@@ -4,6 +4,8 @@ body{
 }
 .topnav {
   margin-top: 0px;
+  background-color: #628592 ;
+  box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.2);
   width: 100%;
   display: flex;
   justify-content: center;

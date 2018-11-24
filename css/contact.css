@@ -3,12 +3,12 @@ body{
   color: #bdbdbd;
 }
 .topnav {
-  margin-top: 0px;
-  width: 100%;
-  width: 100%;
+  box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.2);
   background-color:#628592 ;
   display: flex;
   justify-content: center;
+  border-left: 2px;
+  border-color: white;
   overflow: hidden;
 }
 .topnav a {
