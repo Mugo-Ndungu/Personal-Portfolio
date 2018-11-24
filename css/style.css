@@ -6,7 +6,7 @@ body{
   margin-top: 0px;
   width: 100%;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   overflow: hidden;
 }
 .topnav a {
