@@ -70,6 +70,7 @@ h1 {
 }
 .card:hover {
   box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.2);
+  background-color: #64dd17 ;
 }
 .container{
   padding: 2px 16px;
